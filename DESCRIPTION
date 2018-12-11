@@ -1,0 +1,11 @@
+Package: eMergeR
+Title: Parse and Merge e-Prime edat.txt or edat2.txt "recovery" files
+Version: 0.1
+Authors@R: person("Anne-Wil", "Kruijt", email = "mail@awkruijt.nl", role = c("aut", "cre"))
+Maintainer: Anne-Wil Kruijt <mail@awkruijt.nl>
+Description: Got some e-Prime data output you want in R?  Read in the txt recovery files for a managable R list structure.
+Depends: R (>= 3.1.2), plyr
+License: MIT
+LazyData: true
+URL: http://awkruijt/eMergeR/
+BugReports: https://github.com/awkruijt/eMergeR/issues
